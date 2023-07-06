@@ -1,0 +1,4 @@
+vosk~=0.3.45
+PyAudio~=0.2.13
+python-osc~=1.8.1
+argostranslate~=1.8.0
